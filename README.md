@@ -68,4 +68,6 @@ api report-admin = /report-admin
 
 api report-bank = /report-bank
 
+api history = /history
+
 
